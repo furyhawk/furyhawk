@@ -1,8 +1,13 @@
 - 👋 Hi, I’m @furyhawk
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning AI
+- 💞️ I’m looking to collaborate on AI
 - 📫 How to reach me ...
+
+'''sh
+$ git config --global user.name "furyhawk"
+$ git config --global user.email furyx@hotmail.com
+'''
 
 <!---
 furyhawk/furyhawk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
