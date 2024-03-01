@@ -9,6 +9,7 @@ $ git config --global user.name "furyhawk"
 $ git config --global user.email furyx@hotmail.com
 ```
 
+[Beyond All Information](https://bai.furyhawk.lol/)
 
 <!---
 furyhawk/furyhawk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
