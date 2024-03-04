@@ -13,6 +13,10 @@ $ git config --global user.email furyx@hotmail.com
 
 [Forum](https://forum.furyhawk.lol/)
 
+[Blog](https://info.furyhawk.lol/)
+
+[Home server](https://github.com/furyhawk/cloudy)
+
 <!---
 furyhawk/furyhawk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
