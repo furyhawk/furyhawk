@@ -9,12 +9,12 @@ $ git config --global user.name "furyhawk"
 $ git config --global user.email furyx@hotmail.com
 ```
 
-- [Beyond All Information](https://bai.furyhawk.lol/)
-- [Forum](https://forum.furyhawk.lol/)
+- [Beyond All Information](https://bai.furyhawk.lol/): analyse your [Beyond All Reason](https://www.beyondallreason.info/) games.
+- [Forum](https://forum.furyhawk.lol/): Host your own forum.
 - [Blog](https://info.furyhawk.lol/)
-- [Note](https://note.furyhawk.lol/)
-- [Home server](https://github.com/furyhawk/cloudy)
-- [Neural Network Playground](https://furyhawk.github.io/playground)
+- [Note](https://note.furyhawk.lol/): Notepad Online.
+- [Home server](https://github.com/furyhawk/cloudy): Build for ARM64 platform
+- [Neural Network Playground](https://furyhawk.github.io/playground): Understand neural network visually.
 
 <!---
 furyhawk/furyhawk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
