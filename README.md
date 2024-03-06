@@ -15,6 +15,7 @@ $ git config --global user.email furyx@hotmail.com
 - [Note](https://note.furyhawk.lol/): Notepad Online.
 - [Home server](https://github.com/furyhawk/cloudy): Build for ARM64 platform
 - [Neural Network Playground](https://furyhawk.github.io/playground): Understand neural network visually.
+- [Team Fight Tactics ML](https://github.com/furyhawk/tftchamp): Analyse the current meta.
 
 <!---
 furyhawk/furyhawk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
