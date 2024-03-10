@@ -8,7 +8,7 @@
 $ git config --global user.name "furyhawk"
 $ git config --global user.email furyx@hotmail.com
 ```
-
+# Scheduled downtime 20240316 - 20240324
 - [Beyond All Information](https://bai.furyhawk.lol/): analyse your [Beyond All Reason](https://www.beyondallreason.info/) games.
 - [Forum](https://forum.furyhawk.lol/): Host your own forum.
 - [Blog](https://info.furyhawk.lol/)
