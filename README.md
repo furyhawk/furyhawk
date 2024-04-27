@@ -11,6 +11,8 @@ $ git config --global user.email furyx@hotmail.com
 
 - [Chat](https://chat.furyhawk.lol/): Chat with AI.
 - [Beyond All Information](https://bai.furyhawk.lol/): analyse your [Beyond All Reason](https://www.beyondallreason.info/) games.
+- [pastebin](https://bin.furyhawk.lol/): Pastebin.
+- [CheatSheets](https://cheat.furyhawk.lol/): Collection of cheatsheets.
 - [Forum](https://forum.furyhawk.lol/): Host your own forum.
 - [Blog](https://info.furyhawk.lol/)
 - [Note](https://note.furyhawk.lol/): Notepad Online.
