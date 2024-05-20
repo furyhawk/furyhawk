@@ -10,14 +10,16 @@ $ git config --global user.email furyx@hotmail.com
 ```
 
 - [Chat](https://chat.furyhawk.lol/): Chat with AI.
+- [Stock Analysis Assistant](https://fin.furyhawk.lol/): AI assistant using GROQ and llama3.
+- [Redlib](https://redlib.furyhawk.lol/): Reddit libre.
+- [Blog](https://info.furyhawk.lol/)
 - [Beyond All Information](https://bai.furyhawk.lol/): analyse your [Beyond All Reason](https://www.beyondallreason.info/) games.
-- [pastebin](https://bin.furyhawk.lol/): Pastebin.
 - [CheatSheets](https://cheat.furyhawk.lol/): Collection of cheatsheets.
 - [Forum](https://forum.furyhawk.lol/): Host your own forum.
-- [Blog](https://info.furyhawk.lol/)
-- [Note](https://note.furyhawk.lol/): Notepad Online.
-- [Home server](https://github.com/furyhawk/cloudy): Build for ARM64 platform
 - [Neural Network Playground](https://furyhawk.github.io/playground): Understand neural network visually.
+- [Note](https://note.furyhawk.lol/): Notepad Online.
+- [pastebin](https://bin.furyhawk.lol/): Pastebin.
+- [Home server](https://github.com/furyhawk/cloudy): Build for ARM64 platform
 - [Team Fight Tactics ML](https://github.com/furyhawk/tftchamp): Analyse the current meta.
 
 <!---
