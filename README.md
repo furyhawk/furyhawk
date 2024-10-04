@@ -19,13 +19,13 @@ git config pull.rebase true
 - [Ghost](https://ghost.furyhawk.lol/): Ghost blog.
 - [Beyond All Information](https://bai.furyhawk.lol/): analyse your [Beyond All Reason](https://www.beyondallreason.info/) games.
 - [CheatSheets](https://cheat.furyhawk.lol/): Collection of cheatsheets.
-- ~~[Cookbook](https://cook.furyhawk.lol/): Collection of tech recipes.~~
+- [Cookbook](https://cook.furyhawk.lol/): Collection of tech recipes.
 - ~~[Forum](https://forum.furyhawk.lol/): Host your own forum.~~ (deprecated)
 - [Neural Network Playground](https://furyhawk.github.io/playground): Understand neural network visually.
 - [Note](https://note.furyhawk.lol/): Notepad Online. Use cookie storage only.
-- ~~[linx](https://linx.furyhawk.lol/): Image pastebin.~~
-- ~~[pastebin](https://bin.furyhawk.lol/): text/file Pastebin.~~
-- ~~[speedtest](https://speed.furyhawk.lol/): Speedtest.~~
+- [linx](https://linx.furyhawk.lol/): Image pastebin.
+- [pastebin](https://bin.furyhawk.lol/): text/file Pastebin.
+- [speedtest](https://speed.furyhawk.lol/): Speedtest.
 - [Home server](https://github.com/furyhawk/cloudy): Build for ARM64 platform using Docker swarm mode.
 - [Team Fight Tactics ML](https://github.com/furyhawk/tftchamp): Analyse the current meta.
 
