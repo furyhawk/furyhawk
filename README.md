@@ -16,7 +16,7 @@ git config pull.rebase true
 - [Whisper-web](https://whisper.furyhawk.lol/): ML-powered speech recognition directly in your browser.
 - ~~[Redlib](https://redlib.furyhawk.lol/): Reddit libre.~~ (killed by bots)
 - [Blog](https://info.furyhawk.lol/)
-- [Ghost](https://ghost.furyhawk.lol/): Ghost blog.
+- ~~[Ghost](https://ghost.furyhawk.lol/): Ghost blog.~~
 - [Beyond All Information](https://bai.furyhawk.lol/): analyse your [Beyond All Reason](https://www.beyondallreason.info/) games.
 - [CheatSheets](https://cheat.furyhawk.lol/): Collection of cheatsheets.
 - [Cookbook](https://cook.furyhawk.lol/): Collection of tech recipes.
