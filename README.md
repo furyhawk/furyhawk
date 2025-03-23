@@ -7,7 +7,7 @@
 ```sh
 git config --global user.name "furyhawk"
 git config --global user.email furyx@hotmail.com
-git config pull.rebase true
+git config --global pull.rebase true
 ```
 
 - ~~[Chat](https://chat.furyhawk.lol/): Chat with AI, RAG chatbot.~~
