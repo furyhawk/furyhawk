@@ -24,6 +24,7 @@ git config --global pull.rebase true
 - ~~[Forum](https://forum.furyhawk.lol/): Host your own forum.~~ (deprecated)
 - [Neural Network Playground](https://furyhawk.github.io/playground): Understand neural network visually.
 - [Note](https://note.furyhawk.lol/): Notepad Online. Use cookie storage only.
+- [Pad](https://pad.furyhawk.lol/): Nodepad With AI Online. Use cookie storage only.
 - [linx](https://linx.furyhawk.lol/): Image pastebin.
 - [pastebin](https://bin.furyhawk.lol/): text/file Pastebin.
 - [speedtest](https://speed.furyhawk.lol/): Speedtest.
