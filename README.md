@@ -11,7 +11,7 @@ git config --global pull.rebase true
 ```
 
 - [Nearby Bus](https://bus.furyhawk.lol/): Nearby bus App.
-- [](https://git.furyhawk.lol/): git repo
+- [https://git.furyhawk.lol/](https://git.furyhawk.lol/): git repo
 - ~~[Chat](https://chat.furyhawk.lol/): Chat with AI, RAG chatbot.~~
 - [Bot](https://bot.furyhawk.lol/): AI assistant using GROQ, llama3 70B, RAG and web search.
 - [Stock Analysis Assistant](https://fin.furyhawk.lol/): AI assistant using GROQ and llama3.
