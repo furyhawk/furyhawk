@@ -12,6 +12,7 @@ git config --global pull.rebase true
 
 - [Nearby Bus](https://bus.furyhawk.lol/): Nearby bus App.
 - [https://git.furyhawk.lol/](https://git.furyhawk.lol/): git repo
+- [https://github.com/furyhawk/opengw.git](https://github.com/furyhawk/opengw.git): Trigonometry Wars is an open-source, twin-stick arena shooter inspired by Geometry Wars. Control a small neon ship on a vector-style grid, dodge swarms of enemies, survive as long as you can and chase the high score.
 - ~~[Chat](https://chat.furyhawk.lol/): Chat with AI, RAG chatbot.~~
 - [Bot](https://bot.furyhawk.lol/): AI assistant using GROQ, llama3 70B, RAG and web search.
 - [Stock Analysis Assistant](https://fin.furyhawk.lol/): AI assistant using GROQ and llama3.
